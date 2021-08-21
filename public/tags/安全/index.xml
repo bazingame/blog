@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>安全 on Bazinga&#39;s Blog</title>
-    <link>xiaoguozi.me/tags/%E5%AE%89%E5%85%A8/</link>
+    <link>http://chown.xyz/tags/%E5%AE%89%E5%85%A8/</link>
     <description>Recent content in 安全 on Bazinga&#39;s Blog</description>
     <image>
-      <url>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Jan 2018 12:00:00 +0000</lastBuildDate><atom:link href="xiaoguozi.me/tags/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2018 12:00:00 +0000</lastBuildDate><atom:link href="http://chown.xyz/tags/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数据库安全</title>
-      <link>xiaoguozi.me/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</link>
+      <link>http://chown.xyz/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</link>
       <pubDate>Tue, 16 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>xiaoguozi.me/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</guid>
+      <guid>http://chown.xyz/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</guid>
       <description>&lt;h3 id=&#34;数据库渗透技术&#34;&gt;数据库渗透技术&lt;/h3&gt;
 &lt;h4 id=&#34;sql注入&#34;&gt;SQL注入&lt;/h4&gt;
 &lt;p&gt;此知识点繁杂详见另一篇文章&lt;/p&gt;
