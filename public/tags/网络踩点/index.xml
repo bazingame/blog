@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>网络踩点 on Bazinga&#39;s Blog</title>
+    <link>chown.xyz/tags/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</link>
+    <description>Recent content in 网络踩点 on Bazinga&#39;s Blog</description>
+    <image>
+      <url>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 Jan 2018 14:00:00 +0000</lastBuildDate><atom:link href="chown.xyz/tags/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网络踩点、路由信息探测</title>
+      <link>chown.xyz/posts/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</link>
+      <pubDate>Thu, 18 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/posts/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</guid>
+      <description>&lt;h4 id=&#34;网络踩点路由信息探测&#34;&gt;网络踩点、路由信息探测&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;tracert命令(win下)&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;tracert命令诊断实用程序通过向目标计算机发送具有不同生存时间的ICMP数据包，来确定至目标计算机的路由，也就是说用来跟踪一个消息从一台计算机到另一台计算机所走的路径。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;	tracert [-d] [-h maximum_hops] [-j computer-list] [-w timeout] target_name
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

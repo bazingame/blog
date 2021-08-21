@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Bazinga&#39;s Blog</title>
+    <link>chown.xyz/tags/</link>
+    <description>Recent content in Tags on Bazinga&#39;s Blog</description>
+    <image>
+      <url>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="chown.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>redis</title>
+      <link>chown.xyz/tags/redis/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>chown.xyz/tags/golang/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>信息安全</title>
+      <link>chown.xyz/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Tue, 25 Jun 2019 15:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>加密算法</title>
+      <link>chown.xyz/tags/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Tue, 25 Jun 2019 15:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>系统设计</title>
+      <link>chown.xyz/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Wed, 06 Mar 2019 15:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle</title>
+      <link>chown.xyz/tags/oracle/</link>
+      <pubDate>Tue, 16 Oct 2018 17:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>chown.xyz/tags/php/</link>
+      <pubDate>Tue, 16 Oct 2018 17:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>权限管理</title>
+      <link>chown.xyz/tags/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sat, 20 Jan 2018 16:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络踩点</title>
+      <link>chown.xyz/tags/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</link>
+      <pubDate>Thu, 18 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>chown.xyz/tags/linux/</link>
+      <pubDate>Wed, 17 Jan 2018 16:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安全</title>
+      <link>chown.xyz/tags/%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Tue, 16 Jan 2018 12:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据库</title>
+      <link>chown.xyz/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+      <pubDate>Tue, 16 Jan 2018 12:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IC</title>
+      <link>chown.xyz/tags/ic/</link>
+      <pubDate>Sat, 08 Jul 2017 01:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/ic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>硬件</title>
+      <link>chown.xyz/tags/%E7%A1%AC%E4%BB%B6/</link>
+      <pubDate>Sat, 08 Jul 2017 01:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/tags/%E7%A1%AC%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

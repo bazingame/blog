@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>redis on Bazinga&#39;s Blog</title>
+    <link>chown.xyz/tags/redis/</link>
+    <description>Recent content in redis on Bazinga&#39;s Blog</description>
+    <image>
+      <url>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="chown.xyz/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis设计与实现之「单机数据库的一些功能实现」</title>
+      <link>chown.xyz/posts/redis-two/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/posts/redis-two/</guid>
+      <description>Redis 单机数据库的一些功能实现</description>
+    </item>
+    
+    <item>
+      <title>Redis设计与实现之「数据结构」</title>
+      <link>chown.xyz/posts/redis-one/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>chown.xyz/posts/redis-one/</guid>
+      <description>Redis 数据结构</description>
+    </item>
+    
+  </channel>
+</rss>
