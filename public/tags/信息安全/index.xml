@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>信息安全 on Bazinga&#39;s Blog</title>
-    <link>chown.xyz/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</link>
+    <link>xiaoguozi.me/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</link>
     <description>Recent content in 信息安全 on Bazinga&#39;s Blog</description>
     <image>
-      <url>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Jun 2019 15:00:00 +0000</lastBuildDate><atom:link href="chown.xyz/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2019 15:00:00 +0000</lastBuildDate><atom:link href="xiaoguozi.me/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>公开密钥加密及其应用</title>
-      <link>chown.xyz/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</link>
+      <link>xiaoguozi.me/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</link>
       <pubDate>Tue, 25 Jun 2019 15:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</guid>
+      <guid>xiaoguozi.me/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;小组内部每周都会有人进行技术分享，这周leader安排到了我。想了很久给大家分享什么内容，但觉得都不怎么合适，感觉这些技术他们都已有所了解，且比我掌握的可能更深刻一些。思来想去最后我选了一个大家接触比较少且自己最近在这方面的看的又比较多的技术内容——公开密钥加密。这里将分享的内容整理为一篇文章记录在此。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>蓝盾训练记录2</title>
-      <link>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</link>
+      <link>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</link>
       <pubDate>Sun, 14 Jan 2018 10:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</guid>
+      <guid>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</guid>
       <description>&lt;h4 id=&#34;windows系统漏洞&#34;&gt;windows系统漏洞&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;巨硬公司会定期将软件产品中发现的重大问题以安全公告的形式公布于众，可在 &lt;a href=&#34;https://technet.microsoft.com/zh-cn/library/security/&#34;&gt;安全公告&lt;/a&gt; 上查看。
@@ -40,10 +40,10 @@
     
     <item>
       <title>蓝盾训练记录</title>
-      <link>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</link>
+      <link>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Sat, 13 Jan 2018 20:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</guid>
+      <guid>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</guid>
       <description>&lt;h4 id=&#34;彩虹表破解win本地密码&#34;&gt;彩虹表破解win本地密码&lt;/h4&gt;
 &lt;p&gt;使用工具：&lt;/p&gt;
 &lt;blockquote&gt;

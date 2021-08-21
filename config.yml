@@ -1,4 +1,5 @@
-baseURL: "chown.xyz/"
+# baseURL: "chown.xyz"
+baseURL: "xiaoguozi.me"
 title: Bazinga's Blog
 paginate: 8
 theme: PaperMod

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>权限管理 on Bazinga&#39;s Blog</title>
-    <link>chown.xyz/tags/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/</link>
+    <link>xiaoguozi.me/tags/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 权限管理 on Bazinga&#39;s Blog</description>
     <image>
-      <url>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Jan 2018 16:00:00 +0000</lastBuildDate><atom:link href="chown.xyz/tags/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2018 16:00:00 +0000</lastBuildDate><atom:link href="xiaoguozi.me/tags/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>权限管理与密码破解</title>
-      <link>chown.xyz/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</link>
+      <link>xiaoguozi.me/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</link>
       <pubDate>Sat, 20 Jan 2018 16:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</guid>
+      <guid>xiaoguozi.me/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</guid>
       <description>&lt;h3 id=&#34;linux下权限管理&#34;&gt;Linux下权限管理&lt;/h3&gt;
 &lt;h4 id=&#34;useradd&#34;&gt;useradd&lt;/h4&gt;
 &lt;blockquote&gt;

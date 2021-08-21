@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bazinga&#39;s Blog</title>
-    <link>chown.xyz/</link>
+    <link>xiaoguozi.me/</link>
     <description>Recent content on Bazinga&#39;s Blog</description>
     <image>
-      <url>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>xiaoguozi.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="chown.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="xiaoguozi.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redis设计与实现之「单机数据库的一些功能实现」</title>
-      <link>chown.xyz/posts/redis-two/</link>
+      <link>xiaoguozi.me/posts/redis-two/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/redis-two/</guid>
+      <guid>xiaoguozi.me/posts/redis-two/</guid>
       <description>Redis 单机数据库的一些功能实现</description>
     </item>
     
     <item>
       <title>Golang 图片处理 — image 库</title>
-      <link>chown.xyz/posts/go-image/</link>
+      <link>xiaoguozi.me/posts/go-image/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/go-image/</guid>
+      <guid>xiaoguozi.me/posts/go-image/</guid>
       <description>Golang 图片处理 — image 库</description>
     </item>
     
     <item>
       <title>Redis设计与实现之「数据结构」</title>
-      <link>chown.xyz/posts/redis-one/</link>
+      <link>xiaoguozi.me/posts/redis-one/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/redis-one/</guid>
+      <guid>xiaoguozi.me/posts/redis-one/</guid>
       <description>Redis 数据结构</description>
     </item>
     
     <item>
       <title>gogo/protobuf 的使用</title>
-      <link>chown.xyz/posts/gogo-protobuf/</link>
+      <link>xiaoguozi.me/posts/gogo-protobuf/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/gogo-protobuf/</guid>
+      <guid>xiaoguozi.me/posts/gogo-protobuf/</guid>
       <description>gogo/protobuf 的使用</description>
     </item>
     
     <item>
       <title>文本差异对比工具 go-diff</title>
-      <link>chown.xyz/posts/go-diff/</link>
+      <link>xiaoguozi.me/posts/go-diff/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/go-diff/</guid>
+      <guid>xiaoguozi.me/posts/go-diff/</guid>
       <description>Go-diff</description>
     </item>
     
     <item>
       <title>公开密钥加密及其应用</title>
-      <link>chown.xyz/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</link>
+      <link>xiaoguozi.me/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</link>
       <pubDate>Tue, 25 Jun 2019 15:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</guid>
+      <guid>xiaoguozi.me/posts/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;小组内部每周都会有人进行技术分享，这周leader安排到了我。想了很久给大家分享什么内容，但觉得都不怎么合适，感觉这些技术他们都已有所了解，且比我掌握的可能更深刻一些。思来想去最后我选了一个大家接触比较少且自己最近在这方面的看的又比较多的技术内容——公开密钥加密。这里将分享的内容整理为一篇文章记录在此。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -68,10 +68,10 @@
     
     <item>
       <title>一种同步系统设计方案</title>
-      <link>chown.xyz/posts/%E4%B8%80%E7%A7%8D%E5%90%8C%E6%AD%A5%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/</link>
+      <link>xiaoguozi.me/posts/%E4%B8%80%E7%A7%8D%E5%90%8C%E6%AD%A5%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/</link>
       <pubDate>Wed, 06 Mar 2019 15:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E4%B8%80%E7%A7%8D%E5%90%8C%E6%AD%A5%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/</guid>
+      <guid>xiaoguozi.me/posts/%E4%B8%80%E7%A7%8D%E5%90%8C%E6%AD%A5%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/</guid>
       <description>&lt;p&gt;对于广告投放系统，有如下模块：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;落地页：用户点击广告位进入的广告展示页面。&lt;/li&gt;
@@ -83,20 +83,20 @@
     
     <item>
       <title>PHP使用PDO连接Oracle</title>
-      <link>chown.xyz/posts/phptooracle/</link>
+      <link>xiaoguozi.me/posts/phptooracle/</link>
       <pubDate>Tue, 16 Oct 2018 17:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/phptooracle/</guid>
+      <guid>xiaoguozi.me/posts/phptooracle/</guid>
       <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
 &lt;p&gt;　　一直以来，Mysql和php可以说是标配，使用起来基本不需要额外的配置。但最近给学校做的一些项目里多数用到的是Oracle，初次尝试时还遇到了很多坎。这是第四次搭建php和Oracle环境了，前面踩了很多坑，这里就记录下。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>权限管理与密码破解</title>
-      <link>chown.xyz/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</link>
+      <link>xiaoguozi.me/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</link>
       <pubDate>Sat, 20 Jan 2018 16:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</guid>
+      <guid>xiaoguozi.me/posts/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3/</guid>
       <description>&lt;h3 id=&#34;linux下权限管理&#34;&gt;Linux下权限管理&lt;/h3&gt;
 &lt;h4 id=&#34;useradd&#34;&gt;useradd&lt;/h4&gt;
 &lt;blockquote&gt;
@@ -113,10 +113,10 @@
     
     <item>
       <title>网络踩点、路由信息探测</title>
-      <link>chown.xyz/posts/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</link>
+      <link>xiaoguozi.me/posts/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</link>
       <pubDate>Thu, 18 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</guid>
+      <guid>xiaoguozi.me/posts/%E7%BD%91%E7%BB%9C%E8%B8%A9%E7%82%B9/</guid>
       <description>&lt;h4 id=&#34;网络踩点路由信息探测&#34;&gt;网络踩点、路由信息探测&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;tracert命令(win下)&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -128,10 +128,10 @@
     
     <item>
       <title>Linux日志删除与恢复</title>
-      <link>chown.xyz/posts/linux%E6%97%A5%E5%BF%97%E6%81%A2%E5%A4%8D/</link>
+      <link>xiaoguozi.me/posts/linux%E6%97%A5%E5%BF%97%E6%81%A2%E5%A4%8D/</link>
       <pubDate>Wed, 17 Jan 2018 16:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/linux%E6%97%A5%E5%BF%97%E6%81%A2%E5%A4%8D/</guid>
+      <guid>xiaoguozi.me/posts/linux%E6%97%A5%E5%BF%97%E6%81%A2%E5%A4%8D/</guid>
       <description>&lt;h3 id=&#34;linux-日志删除&#34;&gt;Linux 日志删除&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Linux的系统日志一般位于/var/log目录内
@@ -142,10 +142,10 @@
     
     <item>
       <title>数据库安全</title>
-      <link>chown.xyz/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</link>
+      <link>xiaoguozi.me/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</link>
       <pubDate>Tue, 16 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</guid>
+      <guid>xiaoguozi.me/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/</guid>
       <description>&lt;h3 id=&#34;数据库渗透技术&#34;&gt;数据库渗透技术&lt;/h3&gt;
 &lt;h4 id=&#34;sql注入&#34;&gt;SQL注入&lt;/h4&gt;
 &lt;p&gt;此知识点繁杂详见另一篇文章&lt;/p&gt;
@@ -158,10 +158,10 @@
     
     <item>
       <title>一些密码算法</title>
-      <link>chown.xyz/posts/%E4%B8%80%E4%BA%9B%E5%AF%86%E7%A0%81%E7%AE%97%E6%B3%95/</link>
+      <link>xiaoguozi.me/posts/%E4%B8%80%E4%BA%9B%E5%AF%86%E7%A0%81%E7%AE%97%E6%B3%95/</link>
       <pubDate>Mon, 15 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E4%B8%80%E4%BA%9B%E5%AF%86%E7%A0%81%E7%AE%97%E6%B3%95/</guid>
+      <guid>xiaoguozi.me/posts/%E4%B8%80%E4%BA%9B%E5%AF%86%E7%A0%81%E7%AE%97%E6%B3%95/</guid>
       <description>&lt;h2 id=&#34;一些密码算法&#34;&gt;一些密码算法&lt;/h2&gt;
 &lt;h3 id=&#34;古典密码&#34;&gt;古典密码&lt;/h3&gt;
 &lt;h4 id=&#34;凯撒密码&#34;&gt;凯撒密码&lt;/h4&gt;
@@ -173,10 +173,10 @@
     
     <item>
       <title>蓝盾训练记录2</title>
-      <link>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</link>
+      <link>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</link>
       <pubDate>Sun, 14 Jan 2018 10:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</guid>
+      <guid>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%952/</guid>
       <description>&lt;h4 id=&#34;windows系统漏洞&#34;&gt;windows系统漏洞&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;巨硬公司会定期将软件产品中发现的重大问题以安全公告的形式公布于众，可在 &lt;a href=&#34;https://technet.microsoft.com/zh-cn/library/security/&#34;&gt;安全公告&lt;/a&gt; 上查看。
@@ -190,10 +190,10 @@
     
     <item>
       <title>蓝盾训练记录</title>
-      <link>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</link>
+      <link>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Sat, 13 Jan 2018 20:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</guid>
+      <guid>xiaoguozi.me/posts/%E8%93%9D%E7%9B%BE%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</guid>
       <description>&lt;h4 id=&#34;彩虹表破解win本地密码&#34;&gt;彩虹表破解win本地密码&lt;/h4&gt;
 &lt;p&gt;使用工具：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -206,10 +206,10 @@
     
     <item>
       <title>非接触式IC卡破解</title>
-      <link>chown.xyz/posts/%E9%9D%9E%E6%8E%A5%E8%A7%A6%E5%BC%8Fic%E5%8D%A1%E7%A0%B4%E8%A7%A3/</link>
+      <link>xiaoguozi.me/posts/%E9%9D%9E%E6%8E%A5%E8%A7%A6%E5%BC%8Fic%E5%8D%A1%E7%A0%B4%E8%A7%A3/</link>
       <pubDate>Sat, 08 Jul 2017 01:00:00 +0000</pubDate>
       
-      <guid>chown.xyz/posts/%E9%9D%9E%E6%8E%A5%E8%A7%A6%E5%BC%8Fic%E5%8D%A1%E7%A0%B4%E8%A7%A3/</guid>
+      <guid>xiaoguozi.me/posts/%E9%9D%9E%E6%8E%A5%E8%A7%A6%E5%BC%8Fic%E5%8D%A1%E7%A0%B4%E8%A7%A3/</guid>
       <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
 &lt;p&gt;　　本文算是写过的第一篇技术文章，于高二下学期。当时发帖于贴吧，但由于一些原因被迫删帖。现在搭建好了个人博客，便想修改一下将此文作为本博客第一篇文章。
 　　高二时期，由于学校每月返还四元的的水费不够用,加上看到别的同学因系统错误而偶然获得的两张九万多的水卡，便驱动着自己去对此暗暗了解一番。
