@@ -9,7 +9,16 @@
       <link>http://chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://chown.xyz/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://chown.xyz/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>跨平台文件系统监控工具 — fsnotify</title>
+      <link>http://chown.xyz/posts/fsnotify/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://chown.xyz/posts/fsnotify/</guid>
+      <description>fsnotify</description>
+    </item>
+    
     <item>
       <title>Golang 图片处理 — image 库</title>
       <link>http://chown.xyz/posts/go-image/</link>
