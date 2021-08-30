@@ -87,7 +87,7 @@ params:
         # - name: zhihu
           # url: "https://www.zhihu.com/people/feng-hua-yu-28"
         - name: email
-          url: "feng-hua-yu@hotmail.com"
+          url: "mailto:feng-hua-yu@hotmail.com"
 
     # analytics:
         # google:
